@@ -7,6 +7,9 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Compatible-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
 [![Tests Passing](https://img.shields.io/badge/Test%20Cases-70%2F70%20Passing-22c55e?style=flat)]()
 
+**Run offline:** [cd /d "c:\Users\Asus\Documents\Projects\CSE PA Q" && run.bat](cd /d "c:\Users\Asus\Documents\Projects\CSE PA Q" && run.bat)
+
+
 **Live Web Application:** [https://cse-pa-q.onrender.com](https://cse-pa-q.onrender.com)
 
 
