@@ -7,7 +7,10 @@
 [![Vercel](https://img.shields.io/badge/Vercel-Compatible-000000?style=flat&logo=vercel&logoColor=white)](https://vercel.com)
 [![Tests Passing](https://img.shields.io/badge/Test%20Cases-70%2F70%20Passing-22c55e?style=flat)]()
 
-**Live Web Application:** [https://javaprogrammingq.onrender.com](https://javaprogrammingq.onrender.com)
+**Live Web Application:** [https://cse-pa-q.onrender.com](https://cse-pa-q.onrender.com)
+
+
+https://cse-pa-q.vercel.app/
 
 A production-grade, browser-based Java execution workbench built for mastering algorithmic programming, object-oriented concepts, the Collections Framework, Streams API, multi-threading synchronization, database normalization, and SQL.
 
