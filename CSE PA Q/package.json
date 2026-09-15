@@ -1,0 +1,11 @@
+{
+  "name": "java-practice-lab",
+  "version": "2.0.0",
+  "description": "Java Practice Compiler & Test Bench with 70 Curated Challenges",
+  "scripts": {
+    "start": "python server.py"
+  },
+  "dependencies": {
+    "motion": "^13.2.0"
+  }
+}
