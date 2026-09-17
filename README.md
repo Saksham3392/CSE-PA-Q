@@ -9,7 +9,7 @@
 
 **Run offline:** 
 ```cd
-cd /d "c:\Users\Asus\Documents\Projects\CSE PA Q" && run.bat
+cd /d "c:\Users\Asus\Documents\Projects\CSE PA Q" && start http://localhost:2090 && python server.py
 ```
 
 
